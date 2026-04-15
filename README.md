@@ -10,7 +10,7 @@
 
 ## My Skills 🖥️
 
-### Frontend Technologies
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
