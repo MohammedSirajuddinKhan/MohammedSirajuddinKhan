@@ -11,8 +11,6 @@
 </div>
 
 ## My Skills 🖥️
-<br>
-<br>
 
 ### Frontend Technologies
 <p align="left">
