@@ -16,18 +16,16 @@
 
 ### Frontend Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
+
+
 
 ### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,c,cpp,java,php" />
 </p>
 
-### Runtime Environments
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
 ### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -35,7 +33,7 @@
 
 ### Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=express,tailwind" />
 </p>
 
 ### Tools
@@ -50,17 +48,17 @@
 
 ## Connect with Me
 
-<p align="left">
+<p align="left" style="display: flex; gap: 8px;">
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/wokenupsiraj?igsh=MWdteXVhN2o3Z2Y5eg==" target="_blank">
+  <a href="https://www.instagram.com/wokenupsiraj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-sirajuddin-khan-054001290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://mail.google.com/mail/?view=cm&to=sirajuddinkhan7718@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=sirajuddinkhan7718@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
