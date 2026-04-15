@@ -9,7 +9,7 @@
 <br>
 
 <div align="left">
-  <img align="right" alt="coding" width="260" src="YOUR_IMAGE_LINK_HERE">
+  <img align="right" alt="coding" width="260" src="/assets/giphy.gif">
 </div>
 
 ## My Skills 🖥️
