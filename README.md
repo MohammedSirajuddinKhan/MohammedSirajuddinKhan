@@ -1,7 +1,5 @@
 <h1 align="left">Hi there, I am Mohammed Sirajuddin Khan 👋🏻</h1>
 
-<hr>
-
 <p align="left">
   I'm an enthusiastic Techie and a Developer who loves to solve problems.
 </p>
@@ -29,9 +27,9 @@
   <img src="https://skillicons.dev/icons?i=ubuntu,linux,vscode,git,github" />
 </p>
 
-### Designing and Photo Editing
+### Designing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### Audio & Video Editing
