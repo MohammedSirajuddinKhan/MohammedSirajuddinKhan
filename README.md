@@ -4,8 +4,6 @@
   I don’t just write code — I solve what others avoid.
 </p>
 
-<br>
-
 <div align="left">
   <img align="right" alt="coding" width="200" src="/assets/giphy.gif" style="border-radius: 75%;border-color: rgb(255, 255, 255);border-style: solid;border-width: 4px;">
 </div>
