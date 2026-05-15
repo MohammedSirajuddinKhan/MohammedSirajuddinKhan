@@ -19,7 +19,7 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,java,php" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,java" />
 </p>
 
 ### Databases
@@ -45,7 +45,7 @@
 ## Connect with Me
 
 <p align="left" style="display: flex; gap: 8px;">
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://sirajuddinkhancodes.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/wokenupsiraj" target="_blank">
