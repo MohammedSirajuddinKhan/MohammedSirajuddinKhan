@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=lovable&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeBuff-000000?style=for-the-badge&logo=lovable&logoColor=white" />
 </p>
 
 ### Designing
