@@ -11,33 +11,45 @@
 ## My Skills 🖥️
 
 ### Frontend Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-
-
 ### Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,c,cpp,java" />
 </p>
 
 ### Databases
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-### Frameworks
+### Frameworks & Libraries
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=fastapi,express,tailwind" />
 </p>
 
 ### Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=lovable&logoColor=white" />
 </p>
 
 ### Designing
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,illustrator" />
 </p>
